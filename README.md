@@ -49,10 +49,12 @@ E. CARA MENJALANKAN PROGRAM :
      Pastikan sudah terinstall:
      - Compiler C++ (GCC / MinGW / g++)
      - Sistem operasi Windows / Linux / macOS
-  2. Pastikan file berikut berada dalam satu folder:
-     - main.cpp
-     - tubess.cpp
-     - tubess.h
-  3. Buka terminal atau command prompt, lalu jalankan:   g++ maintubess.cpp tubess.cpp -o tubess
-  4. Untuk mnjalankan Program, lalu jalankan:           ./tubess
-  5. Saat Program dijalankan, pengguna diminta memilih peran user/admin. Ketik admin untuk masuk sebagai admin, Ketik user untuk masuk sebagai user.
+  2. Pastikan file berikut berada dalam beberapa folder:
+     a. folder "src"
+       - main.cpp
+       - tubess.cpp
+     b. folder "include"
+       - tubess.h
+  4. Buka terminal atau command prompt, lalu jalankan:   g++ src/main.cpp src/tubes.cpp -Iinclude -o music
+  5. Untuk mnjalankan Program, lalu jalankan:           ./music
+  6. Saat Program dijalankan, pengguna diminta memilih peran user/admin. Ketik admin untuk masuk sebagai admin, Ketik user untuk masuk sebagai user.
