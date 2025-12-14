@@ -1,0 +1,23 @@
+a.) Initial Commit
+    Repository baru dibuat di Github, belum ada riwayat perubahan sebelumnya, dan file README baru ditambahkan. Commit ini otomatis muncul ketika baru membuat repository baru.
+
+b.) Add files via upload
+    Menambahkan file tubess2.workspace sebagai file code awal yang dibuat.
+
+c.) Enhance README with project details and instructions
+    Menambahkan nama anggota kelompok, deskripsi aplikasi, struktur data yang digunakan, fitur-fitur yang ada, dan instruksi menjalankan program di file README.
+
+d.) Revise file organization and compile commands
+    Memperbarui struktur folder dan instruksi build di file README.
+
+e.) Delete tubess2.workspace
+    Menghapus file tubess2.workspace karena ada file code baru yang dibuat dan akan diupload.
+
+f.) Add files via upload 
+    Menambahkan file berisi kode program yang sudah dikembangkan, berisi:
+    1. tubes.h
+    2. tubes.cpp
+    3. main.cpp
+
+g.) Create Commit Log
+    Menambahkan file Commit Log yang berisi cerminan perkembangan program secara bertahap.
